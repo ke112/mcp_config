@@ -2,8 +2,8 @@
 配置mcp服务, 持续更新中...
 
 
-# 已集成平台
+# 已集成以下平台
 
-## figma
-## github
+## 1. figma
+## 2. github
 
