@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "Framelink Figma MCP": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "figma-developer-mcp",
+        "--figma-api-key=figd_FqR61iEpdt6d-725Tc6mKBiT3w5dcS-YSQJRs8IqQ",
+        "--stdio"
+      ]
+    },
+    "Github MCP": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github",
+        "--stdio"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "ghp_zGhgg82bNNnkwDV5EFVEmBfVoKE5ZIf2BoQNj"
+      }
+    }
+  }
+}
