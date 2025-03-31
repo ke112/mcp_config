@@ -1,7 +1,10 @@
 # mcp_config
 小白配置mcp服务, 持续更新中...
 
-## 集成平台
+## 配置内容
+见根目录下mcp.json
+
+## 获取平台token
 ### 已踩坑实践可用 (绿色小点配置成功)
 ### 1. figma (Help and acount -> account settings -> Security -> Personal access tokens)
 ### 2. github (https://github.com/settings/tokens)
