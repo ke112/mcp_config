@@ -1,5 +1,8 @@
 # mcp_config
+Cursor + MCP = 王炸！彻底颠覆我的 Cursor工作流，效率直接起飞！
 小白配置mcp服务, 持续更新中...
+
+不了解的mcp可参考介绍 https://zhuanlan.zhihu.com/p/28235501098
 
 ## 配置内容
 见根目录下mcp.json
