@@ -5,7 +5,7 @@
       "args": [
         "-y",
         "figma-developer-mcp",
-        "--figma-api-key=figd_FqR61iEpdt6d-725Tc6mKBiT3w5dcS-YSQJRs8IqQ",
+        "--figma-api-key=xxxxxxxxxxxxxxxxxx",
         "--stdio"
       ]
     },
@@ -17,8 +17,25 @@
         "--stdio"
       ],
       "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "ghp_zGhgg82bNNnkwDV5EFVEmBfVoKE5ZIf2BoQNj"
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "xxxxxxxxxxxxxxxxxx"
       }
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users"
+      ]
+    },
+    "context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp",
+        "--stdio"
+      ],
+      "transportType": "stdio"
     }
   }
 }
